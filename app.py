@@ -111,7 +111,7 @@ label {
     color:black !important;
     border-radius:12px !important;
     border:1px solid #CBD5E1 !important;
-}       
+}      
 
 </style>
 """, unsafe_allow_html=True)
